@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Sowmitra Banerjee
 
-<!--
-**sowmitra8/sowmitra8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I’m currently working on
+- Developing ERP Software Solutions
+- Android App Development
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning
+- Advanced Java & Kotlin
+- Cloud Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👯 I’m looking to collaborate on
+- Open Source ERP Projects
+- Android UI/UX Development
+
+## 💬 Ask me about
+- Finance & Accounting Systems
+- Web & App Development
+
+## 📫 How to reach me
+- Email: sowmitra@example.com
+- LinkedIn: [linkedin.com/in/sowmitrabanerjee](https://www.linkedin.com/in/sowmitrabanerjee)
+
+## ⚡ Fun fact
+- I love creating interactive web apps and mobile apps
