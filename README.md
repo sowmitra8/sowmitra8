@@ -41,6 +41,6 @@
 ---
 
 ## 📌 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sowmitra-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sowmitrabanerjee)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sowmitra-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sowmitra-banerjee)  
 [![GitHub](https://img.shields.io/badge/GitHub-Sowmitra-black?style=for-the-badge&logo=github)](https://github.com/SowmitraBanerjee)  
 [![Email](https://img.shields.io/badge/Email-sowmitra@example.com-red?style=for-the-badge&logo=gmail)](mailto:sowmitra@example.com)
