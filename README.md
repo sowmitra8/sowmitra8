@@ -22,8 +22,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Sowmitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=SowmitraBanerjee&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SowmitraBanerjee&layout=compact&theme=radical)
+![Sowmitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowmitra8&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowmitra8&layout=compact&theme=radical)
 
 ---
 
