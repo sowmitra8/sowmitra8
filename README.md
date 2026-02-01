@@ -9,7 +9,7 @@
 - 🌱 I’m learning **Advanced Java, Kotlin, Cloud Technologies, and Web3**  
 - 👯 I’m open to collaborate on **Open Source ERP and Mobile App Projects**  
 - 💬 Ask me about **Finance, Accounting, Web & Mobile Development**  
-- 📫 How to reach me: [Email](mailto:sowmitra@example.com) | [LinkedIn](https://www.linkedin.com/in/sowmitrabanerjee)
+- 📫 How to reach me: [Email](mailto:sowmitra@example.com) | [LinkedIn](https://www.linkedin.com/in/sowmitra-banerjee)
 
 ---
 
