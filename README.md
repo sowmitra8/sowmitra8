@@ -1,41 +1,43 @@
-# Hi there 👋, I'm Sowmitra Banerjee
+# 👋 Hi there, I'm **Sowmitra Banerjee**!  
+**Android Application Developer | ERP Software Solutions | Finance & Accounting Enthusiast**
 
 ![Profile Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+My+GitHub+Profile)
 
 ---
 
-## 🌟 About Me
-- 🔭 I’m currently working on **ERP Software Solutions & Android App Development**  
-- 🌱 I’m learning **Advanced Java, Kotlin, Cloud Technologies, and Web3**  
-- 👯 I’m open to collaborate on **Open Source ERP and Mobile App Projects**  
+## 🚀 About Me
+- 🔭 I’m currently focused on **ERP Software Solutions & Android App Development**  
+- 🌱 Constantly learning **Advanced Java, Kotlin, Cloud Technologies, and Web3**  
+- 🤝 Always open to collaborate on **Open Source ERP & Mobile App Projects**  
 - 💬 Ask me about **Finance, Accounting, Web & Mobile Development**  
-- 📫 How to reach me: [Email](mailto:sowmitra@example.com) | [LinkedIn](https://www.linkedin.com/in/sowmitra-banerjee)
+- 📧 Reach me via: [Email](mailto:sowmitra@example.com) | [LinkedIn](https://www.linkedin.com/in/sowmitra-banerjee)
 
 ---
 
-## 🛠️ Skills & Tools
-**Languages:** Java, Kotlin, Python, JavaScript  
-**Frameworks & Libraries:** Android SDK, React, Node.js  
-**Databases:** MySQL, PostgreSQL, Firebase  
-**Tools & Platforms:** Git, GitHub, VS Code, Android Studio, Docker, AWS  
+## 🛠️ My Skills & Tools
+- **Languages:** Java, Kotlin, Python, JavaScript  
+- **Frameworks & Libraries:** Android SDK, React, Node.js  
+- **Databases:** MySQL, PostgreSQL, Firebase  
+- **Tools & Platforms:** Git, GitHub, VS Code, Android Studio, Docker, AWS  
 
 ---
 
 ## 📊 GitHub Stats
-![Sowmitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowmitra8&show_icons=true&theme=radical)
+
+![Sowmitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowmitra8&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowmitra8&layout=compact&theme=radical)
 
 ---
 
-## 🏆 Achievements
-- Contributor to multiple **Open Source ERP projects**  
-- Built **interactive mobile and web applications**  
-- Experienced in **Finance & Accounting automation**
+## 🏆 My Achievements
+- Contributed to **multiple Open Source ERP projects**  
+- Developed **interactive mobile and web applications**  
+- Specialized in **Finance & Accounting automation**
 
 ---
 
-## ⚡ Fun Fact
-- I love turning complex problems into **simple apps & dashboards**  
+## ⚡ Fun Facts
+- I thrive on **turning complex problems into simple, intuitive apps & dashboards**  
 - Coffee lover ☕ | Tech enthusiast 💻 | Problem solver 🧩
 
 ---
