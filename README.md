@@ -54,6 +54,7 @@ Hey there! I'm **Sowmitra Banerjee**, an experienced Android Developer with a pa
 - **Git & GitHub** – Version control and project collaboration.
 - **Docker** – Containerization for app deployment.
 - **AWS** – Cloud infrastructure for scalable web apps and databases.
+- **R2** – Storage Management on AWS 
 
 ---
 
