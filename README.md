@@ -159,6 +159,7 @@ open_to:     OSS contributions · Mobile app collaborations · ERP consulting
 - `Kotlin Multiplatform` — sharing business logic across Android and iOS
 - `Web3 / Smart Contracts` — decentralized application architecture
 - `Serverless on AWS` — Lambda, API Gateway, and event-driven design patterns
+- `ERP Based Solution` — Sales, Marketing, HR
 
 ---
 
