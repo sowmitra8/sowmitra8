@@ -160,6 +160,7 @@ open_to:     OSS contributions · Mobile app collaborations · ERP consulting
 - `Web3 / Smart Contracts` — decentralized application architecture
 - `Serverless on AWS` — Lambda, API Gateway, and event-driven design patterns
 - `ERP Based Solution` — Sales, Marketing, HR
+- `Legal Application` — Legal App
 
 ---
 
