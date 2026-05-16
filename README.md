@@ -49,6 +49,7 @@ open_to:     OSS contributions · Mobile app collaborations · ERP consulting
 - Kotlin Coroutines & Flow
 - Android SDK & Jetpack Libraries
 - Performance profiling & optimization
+- Flutter Mobile & IOS
 
     </td>
     <td valign="top" width="33%">
